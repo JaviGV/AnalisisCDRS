@@ -1,0 +1,241 @@
+dglmms141231
+'Totalmms', '20141231'     :     25, 10, 2, 1, 5, 7, 25, 53, 55, 65, 99, 87, 100, 121, 84, 95, 71, 101, 143, 172, 163, 201, 228, 255
+'841-TELEFONICA GUATEMALA', '946-COMCEL'     :     0, 0, 0, 0, 0, 1, 2, 1, 0, 0, 1, 2, 2, 2, 2, 3, 3, 1, 1, 5, 3, 4, 7, 3
+'846-TELEFONICA GUATEMALA', '846-TELEFONICA GUATEMALA'     :     7, 5, 0, 1, 3, 0, 8, 10, 15, 22, 27, 23, 22, 25, 20, 38, 25, 31, 39, 51, 36, 49, 63, 64
+'869-TELEFONICA GUATEMALA', '846-TELEFONICA GUATEMALA'     :     0, 1, 0, 0, 1, 3, 1, 2, 10, 4, 2, 3, 8, 8, 10, 0, 3, 10, 16, 9, 9, 4, 8, 10
+'869-TELEFONICA GUATEMALA', '946-COMCEL'     :     1, 1, 0, 0, 0, 0, 3, 3, 3, 2, 5, 3, 10, 8, 2, 5, 2, 2, 7, 18, 6, 17, 10, 15
+'869-TELEFONICA GUATEMALA', '869-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 5, 5, 3, 7, 6, 3, 3, 6, 8, 1, 4, 5, 11, 1, 4, 9, 13
+'846-TELEFONICA GUATEMALA', '946-COMCEL'     :     7, 1, 1, 0, 0, 0, 6, 10, 8, 12, 17, 12, 23, 19, 15, 15, 14, 14, 20, 26, 42, 47, 47, 50
+'869-TELEFONICA GUATEMALA', '1146-SERCOM PCS DIGITAL'     :     0, 2, 0, 0, 0, 1, 3, 3, 0, 2, 7, 3, 6, 15, 3, 2, 3, 11, 15, 13, 10, 13, 16, 18
+'846-TELEFONICA GUATEMALA', '1141-SERCOM PCS DIGITAL'     :     1, 0, 0, 0, 0, 0, 0, 0, 0, 3, 5, 1, 2, 3, 2, 4, 1, 1, 1, 3, 4, 3, 7, 3
+'869-TELEFONICA GUATEMALA', '1141-SERCOM PCS DIGITAL'     :     2, 0, 0, 0, 0, 0, 0, 1, 0, 0, 2, 2, 3, 8, 0, 0, 1, 0, 5, 5, 6, 1, 1, 2
+'846-TELEFONICA GUATEMALA', '1146-SERCOM PCS DIGITAL'     :     6, 0, 1, 0, 1, 1, 1, 10, 10, 12, 14, 13, 12, 18, 13, 8, 10, 14, 15, 16, 23, 38, 26, 27
+'869-TELEFONICA GUATEMALA', '941-COMCEL'     :     0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 3, 3, 0, 3, 0, 0, 0, 0, 0, 0, 0, 4
+'846-TELEFONICA GUATEMALA', '869-TELEFONICA GUATEMALA'     :     1, 0, 0, 0, 0, 0, 0, 5, 2, 4, 1, 6, 2, 4, 5, 1, 1, 7, 9, 7, 8, 6, 8, 17
+'841-TELEFONICA GUATEMALA', '846-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 2, 2, 1, 0, 1, 1, 0, 0, 1, 1, 0, 2, 6, 3
+'841-TELEFONICA GUATEMALA', '841-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 1, 0, 0, 0, 1, 1, 1, 1, 3, 0
+'841-TELEFONICA GUATEMALA', '1146-SERCOM PCS DIGITAL'     :     0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 5, 5, 2, 2, 1, 2, 2, 1, 2, 2, 3, 6, 8, 10
+'846-TELEFONICA GUATEMALA', '99999-OPERADORA NO DEFINIDA'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 4, 0, 0, 2, 1, 0
+'869-TELEFONICA GUATEMALA', '841-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 1, 0, 0, 2, 3
+'841-TELEFONICA GUATEMALA', '869-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 2, 1, 3, 0, 0, 8, 0, 1, 4
+'841-TELEFONICA GUATEMALA', '941-COMCEL'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 1, 2, 0, 4
+'841-TELEFONICA GUATEMALA', '1141-SERCOM PCS DIGITAL'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 1, 1, 0, 1
+'846-TELEFONICA GUATEMALA', '870-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0
+'846-TELEFONICA GUATEMALA', '855-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+'846-TELEFONICA GUATEMALA', '849-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 1, 1, 0, 0, 0, 0
+'869-TELEFONICA GUATEMALA', '99999-OPERADORA NO DEFINIDA'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0
+'846-TELEFONICA GUATEMALA', '941-COMCEL'     :     0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 1
+'870-TELEFONICA GUATEMALA', '946-COMCEL'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
+'846-TELEFONICA GUATEMALA', '841-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 2
+'855-TELEFONICA GUATEMALA', '1141-SERCOM PCS DIGITAL'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+'870-TELEFONICA GUATEMALA', '846-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0
+'870-TELEFONICA GUATEMALA', '1146-SERCOM PCS DIGITAL'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0
+'841-TELEFONICA GUATEMALA', '849-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+
+dglmms141224
+'Totalmms', '20141224'     :     24, 9, 1, 1, 3, 31, 44, 55, 58, 66, 88, 81, 88, 105, 89, 99, 103, 96, 93, 157, 166, 174, 180, 205
+'846-TELEFONICA GUATEMALA', '1146-SERCOM PCS DIGITAL'     :     4, 2, 0, 0, 0, 0, 3, 5, 12, 8, 18, 13, 14, 17, 25, 12, 15, 17, 10, 14, 23, 22, 32, 15
+'869-TELEFONICA GUATEMALA', '941-COMCEL'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 1, 1, 0, 0, 1, 1, 0, 1, 2, 2
+'841-TELEFONICA GUATEMALA', '869-TELEFONICA GUATEMALA'     :     0, 0, 0, 1, 0, 1, 2, 0, 0, 0, 0, 2, 0, 0, 4, 3, 1, 1, 1, 2, 1, 2, 1, 2
+'846-TELEFONICA GUATEMALA', '846-TELEFONICA GUATEMALA'     :     8, 3, 1, 0, 3, 2, 10, 11, 16, 16, 17, 23, 21, 32, 22, 26, 29, 26, 19, 51, 34, 50, 41, 58
+'869-TELEFONICA GUATEMALA', '946-COMCEL'     :     3, 0, 0, 0, 0, 0, 1, 2, 0, 3, 7, 4, 3, 7, 7, 12, 6, 4, 4, 12, 12, 11, 19, 14
+'841-TELEFONICA GUATEMALA', '946-COMCEL'     :     0, 0, 0, 0, 0, 0, 2, 0, 1, 1, 1, 5, 0, 0, 1, 3, 3, 0, 0, 2, 2, 2, 6, 7
+'846-TELEFONICA GUATEMALA', '946-COMCEL'     :     1, 0, 0, 0, 0, 1, 14, 12, 8, 8, 25, 11, 27, 23, 17, 18, 20, 26, 19, 31, 34, 30, 31, 42
+'869-TELEFONICA GUATEMALA', '846-TELEFONICA GUATEMALA'     :     4, 0, 0, 0, 0, 16, 4, 3, 6, 9, 2, 2, 2, 1, 1, 5, 5, 5, 9, 10, 11, 13, 10, 15
+'846-TELEFONICA GUATEMALA', '869-TELEFONICA GUATEMALA'     :     0, 3, 0, 0, 0, 1, 1, 8, 1, 3, 1, 4, 3, 5, 3, 2, 2, 3, 2, 8, 9, 10, 4, 9
+'846-TELEFONICA GUATEMALA', '1141-SERCOM PCS DIGITAL'     :     0, 0, 0, 0, 0, 0, 0, 1, 1, 3, 0, 1, 2, 4, 0, 2, 3, 2, 0, 1, 2, 3, 6, 8
+'869-TELEFONICA GUATEMALA', '869-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 1, 0, 3, 3, 2, 4, 6, 2, 5, 3, 3, 3, 4, 2, 6, 4, 0, 10
+'869-TELEFONICA GUATEMALA', '1141-SERCOM PCS DIGITAL'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 2, 0, 1, 2, 0, 1, 2, 5, 1, 5, 1
+'869-TELEFONICA GUATEMALA', '1146-SERCOM PCS DIGITAL'     :     2, 1, 0, 0, 0, 7, 4, 3, 4, 1, 6, 0, 4, 8, 2, 6, 8, 2, 15, 9, 15, 14, 9, 10
+'846-TELEFONICA GUATEMALA', '941-COMCEL'     :     0, 0, 0, 0, 0, 0, 0, 2, 2, 3, 0, 0, 0, 1, 0, 2, 2, 0, 0, 1, 5, 0, 0, 2
+'869-TELEFONICA GUATEMALA', '841-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 1, 0, 0, 1, 0, 1, 1, 0, 0, 0, 1, 0
+'841-TELEFONICA GUATEMALA', '1141-SERCOM PCS DIGITAL'     :     0, 0, 0, 0, 0, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3, 1, 2, 0, 1, 3, 0
+'841-TELEFONICA GUATEMALA', '1146-SERCOM PCS DIGITAL'     :     0, 0, 0, 0, 0, 1, 0, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 4, 5, 3, 1, 6, 4
+'846-TELEFONICA GUATEMALA', '841-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 1, 1, 1, 1, 0, 1, 0, 1, 1
+'870-TELEFONICA GUATEMALA', '946-COMCEL'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+'841-TELEFONICA GUATEMALA', '846-TELEFONICA GUATEMALA'     :     1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 2, 4, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2
+'841-TELEFONICA GUATEMALA', '841-TELEFONICA GUATEMALA'     :     1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 3, 1, 0, 0, 0, 0, 0, 0, 0, 3, 0, 5, 3, 2
+'841-TELEFONICA GUATEMALA', '941-COMCEL'     :     0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0
+'846-TELEFONICA GUATEMALA', '99999-OPERADORA NO DEFINIDA'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 1
+'841-TELEFONICA GUATEMALA', '855-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+'849-TELEFONICA GUATEMALA', '846-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+'846-TELEFONICA GUATEMALA', '849-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+'870-TELEFONICA GUATEMALA', '846-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0
+'855-TELEFONICA GUATEMALA', '855-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0
+'869-TELEFONICA GUATEMALA', '870-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+'855-TELEFONICA GUATEMALA', '1146-SERCOM PCS DIGITAL'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0
+'846-TELEFONICA GUATEMALA', '870-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+'849-TELEFONICA GUATEMALA', '1146-SERCOM PCS DIGITAL'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
+'870-TELEFONICA GUATEMALA', '1146-SERCOM PCS DIGITAL'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+
+dglmms141217
+'Totalmms', '20141217'     :     15, 9, 4, 0, 4, 16, 36, 41, 49, 73, 88, 85, 99, 83, 86, 78, 93, 91, 73, 92, 121, 111, 109, 55
+'846-TELEFONICA GUATEMALA', '846-TELEFONICA GUATEMALA'     :     6, 5, 1, 0, 2, 9, 15, 14, 17, 24, 20, 20, 24, 23, 26, 20, 30, 26, 24, 39, 41, 40, 58, 26
+'846-TELEFONICA GUATEMALA', '1146-SERCOM PCS DIGITAL'     :     4, 3, 1, 0, 2, 1, 2, 10, 7, 10, 10, 12, 6, 11, 14, 9, 17, 13, 4, 13, 19, 18, 10, 3
+'869-TELEFONICA GUATEMALA', '1146-SERCOM PCS DIGITAL'     :     1, 0, 0, 0, 0, 0, 0, 0, 6, 2, 8, 2, 6, 1, 2, 4, 9, 11, 3, 3, 5, 8, 2, 0
+'846-TELEFONICA GUATEMALA', '869-TELEFONICA GUATEMALA'     :     2, 0, 0, 0, 0, 0, 4, 2, 2, 1, 4, 4, 11, 3, 1, 4, 2, 1, 5, 3, 0, 3, 6, 2
+'846-TELEFONICA GUATEMALA', '946-COMCEL'     :     0, 0, 0, 0, 0, 2, 4, 9, 3, 11, 21, 15, 18, 16, 21, 17, 19, 20, 19, 22, 32, 19, 10, 12
+'869-TELEFONICA GUATEMALA', '946-COMCEL'     :     0, 0, 0, 0, 0, 2, 3, 1, 3, 4, 3, 4, 9, 3, 3, 9, 1, 2, 1, 1, 3, 3, 12, 0
+'841-TELEFONICA GUATEMALA', '841-TELEFONICA GUATEMALA'     :     1, 0, 0, 0, 0, 0, 0, 1, 1, 2, 1, 5, 1, 3, 2, 1, 2, 1, 4, 0, 1, 1, 1, 0
+'869-TELEFONICA GUATEMALA', '846-TELEFONICA GUATEMALA'     :     0, 0, 1, 0, 0, 0, 0, 1, 1, 3, 1, 3, 8, 4, 4, 2, 5, 4, 3, 3, 4, 4, 7, 2
+'869-TELEFONICA GUATEMALA', '841-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 2, 3, 0, 1, 0, 1, 0, 1, 0, 0, 0
+'841-TELEFONICA GUATEMALA', '1146-SERCOM PCS DIGITAL'     :     0, 0, 0, 0, 0, 0, 2, 0, 0, 3, 1, 2, 3, 5, 1, 2, 0, 0, 3, 0, 1, 2, 0, 6
+'841-TELEFONICA GUATEMALA', '946-COMCEL'     :     0, 0, 0, 0, 0, 1, 0, 0, 2, 1, 3, 1, 4, 0, 0, 0, 0, 3, 1, 1, 1, 3, 1, 0
+'841-TELEFONICA GUATEMALA', '941-COMCEL'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 1, 0, 1, 0, 0, 0, 0
+'869-TELEFONICA GUATEMALA', '869-TELEFONICA GUATEMALA'     :     0, 1, 0, 0, 0, 1, 3, 0, 3, 3, 8, 12, 1, 2, 2, 3, 2, 2, 3, 2, 3, 5, 0, 3
+'841-TELEFONICA GUATEMALA', '1141-SERCOM PCS DIGITAL'     :     0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0
+'846-TELEFONICA GUATEMALA', '1141-SERCOM PCS DIGITAL'     :     1, 0, 0, 0, 0, 0, 3, 1, 1, 1, 3, 1, 0, 2, 0, 1, 1, 1, 1, 0, 1, 0, 1, 1
+'846-TELEFONICA GUATEMALA', '841-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 1, 4, 0, 0, 1, 1, 0, 1, 4, 2, 0, 0
+'846-TELEFONICA GUATEMALA', '870-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0
+'846-TELEFONICA GUATEMALA', '941-COMCEL'     :     0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 2, 0, 1, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0
+'869-TELEFONICA GUATEMALA', '1141-SERCOM PCS DIGITAL'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 3, 0, 0, 1, 0, 0, 1, 0, 0, 0
+'841-TELEFONICA GUATEMALA', '869-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 1, 0, 3, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 1, 0, 0, 0
+'841-TELEFONICA GUATEMALA', '846-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 1, 5, 1, 0, 2, 0, 0, 0, 1, 1, 0, 0, 0
+'869-TELEFONICA GUATEMALA', '941-COMCEL'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0
+'870-TELEFONICA GUATEMALA', '946-COMCEL'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0
+'846-TELEFONICA GUATEMALA', '99999-OPERADORA NO DEFINIDA'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 2, 0, 0
+'870-TELEFONICA GUATEMALA', '846-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+'869-TELEFONICA GUATEMALA', '99999-OPERADORA NO DEFINIDA'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0
+'849-TELEFONICA GUATEMALA', '946-COMCEL'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+'869-TELEFONICA GUATEMALA', '855-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0
+'846-TELEFONICA GUATEMALA', '850-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
+
+dglmms141210
+'Totalmms', '20141210'     :     13, 2, 0, 3, 19, 5, 18, 64, 77, 101, 72, 81, 76, 80, 81, 72, 62, 81, 87, 80, 114, 111, 62, 43
+'846-TELEFONICA GUATEMALA', '99999-OPERADORA NO DEFINIDA'     :     0, 0, 0, 0, 0, 0, 0, 0, 3, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
+'869-TELEFONICA GUATEMALA', '841-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 1, 0, 2, 1, 0, 0, 3, 1, 1, 0, 0, 3, 1, 0, 0, 0, 0
+'846-TELEFONICA GUATEMALA', '841-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 2
+'841-TELEFONICA GUATEMALA', '841-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 1, 1, 0, 1, 1, 1, 2, 0, 1, 4, 1, 0, 0
+'855-TELEFONICA GUATEMALA', '846-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+'869-TELEFONICA GUATEMALA', '846-TELEFONICA GUATEMALA'     :     1, 0, 0, 0, 1, 0, 2, 9, 8, 1, 5, 3, 7, 1, 9, 5, 7, 6, 7, 3, 7, 6, 9, 3
+'849-TELEFONICA GUATEMALA', '846-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+'846-TELEFONICA GUATEMALA', '846-TELEFONICA GUATEMALA'     :     5, 0, 0, 1, 0, 3, 7, 18, 36, 51, 18, 27, 22, 19, 20, 10, 16, 31, 26, 33, 37, 33, 19, 8
+'841-TELEFONICA GUATEMALA', '846-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 1, 3, 0, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0
+'846-TELEFONICA GUATEMALA', '849-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+'841-TELEFONICA GUATEMALA', '849-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+'869-TELEFONICA GUATEMALA', '869-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 1, 0, 1, 0, 5, 1, 5, 2, 3, 6, 3, 9, 2, 5, 4, 3, 1, 5, 2, 3
+'846-TELEFONICA GUATEMALA', '869-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 4, 0, 1, 3, 3, 0, 4, 3, 2, 2, 2, 1, 4, 0, 1, 7, 1, 3, 1, 1
+'841-TELEFONICA GUATEMALA', '869-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 1, 0, 1, 0, 0, 0, 1, 0, 3, 0, 0
+'846-TELEFONICA GUATEMALA', '870-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0
+'869-TELEFONICA GUATEMALA', '855-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
+'869-TELEFONICA GUATEMALA', '1141-SERCOM PCS DIGITAL'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 1, 0, 1, 3, 2, 0, 0, 1, 2, 0, 1, 0, 0
+'846-TELEFONICA GUATEMALA', '1141-SERCOM PCS DIGITAL'     :     0, 0, 0, 0, 4, 0, 0, 1, 3, 0, 2, 0, 1, 1, 1, 2, 0, 0, 2, 1, 2, 0, 0, 0
+'841-TELEFONICA GUATEMALA', '1141-SERCOM PCS DIGITAL'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0
+'855-TELEFONICA GUATEMALA', '1146-SERCOM PCS DIGITAL'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+'869-TELEFONICA GUATEMALA', '1146-SERCOM PCS DIGITAL'     :     0, 0, 0, 0, 0, 0, 0, 0, 1, 8, 4, 2, 5, 7, 5, 0, 5, 7, 4, 2, 8, 3, 1, 7
+'846-TELEFONICA GUATEMALA', '1146-SERCOM PCS DIGITAL'     :     4, 2, 0, 1, 6, 0, 2, 4, 6, 9, 13, 10, 7, 8, 13, 12, 5, 4, 16, 4, 24, 17, 6, 8
+'841-TELEFONICA GUATEMALA', '1146-SERCOM PCS DIGITAL'     :     1, 0, 0, 0, 0, 0, 2, 4, 1, 0, 2, 2, 1, 0, 1, 0, 1, 6, 2, 1, 1, 0, 1, 1
+'869-TELEFONICA GUATEMALA', '941-COMCEL'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 2, 1, 0, 0, 0, 2, 0, 0, 0, 0, 0
+'846-TELEFONICA GUATEMALA', '941-COMCEL'     :     0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+'841-TELEFONICA GUATEMALA', '941-COMCEL'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+'870-TELEFONICA GUATEMALA', '946-COMCEL'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+'869-TELEFONICA GUATEMALA', '946-COMCEL'     :     0, 0, 0, 0, 0, 0, 0, 4, 2, 3, 6, 6, 3, 1, 3, 8, 3, 1, 3, 2, 2, 9, 2, 1
+'846-TELEFONICA GUATEMALA', '946-COMCEL'     :     2, 0, 0, 1, 3, 2, 2, 14, 8, 14, 10, 18, 11, 18, 16, 19, 16, 12, 12, 18, 23, 26, 21, 5
+'841-TELEFONICA GUATEMALA', '946-COMCEL'     :     0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 2, 5, 1, 1, 1, 0, 5, 3, 1, 1, 2, 0, 3
+
+dglmms141126
+'Totalmms', '20141126'     :     23, 12, 4, 6, 6, 18, 39, 73, 71, 76, 103, 78, 83, 71, 98, 97, 87, 130, 103, 128, 128, 82, 81, 57
+'846-TELEFONICA GUATEMALA', '846-TELEFONICA GUATEMALA'     :     9, 4, 2, 5, 3, 7, 14, 12, 19, 18, 33, 21, 32, 24, 26, 34, 31, 23, 37, 51, 35, 32, 26, 22
+'869-TELEFONICA GUATEMALA', '1146-SERCOM PCS DIGITAL'     :     0, 1, 1, 0, 1, 3, 3, 10, 2, 7, 6, 8, 1, 6, 11, 7, 3, 2, 4, 5, 12, 5, 5, 3
+'846-TELEFONICA GUATEMALA', '946-COMCEL'     :     4, 1, 0, 1, 0, 3, 7, 19, 17, 15, 22, 12, 11, 15, 24, 12, 10, 23, 17, 22, 27, 15, 8, 2
+'846-TELEFONICA GUATEMALA', '1146-SERCOM PCS DIGITAL'     :     7, 1, 0, 0, 2, 0, 2, 6, 7, 8, 12, 10, 11, 8, 14, 10, 4, 27, 15, 18, 19, 14, 7, 16
+'869-TELEFONICA GUATEMALA', '846-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 3, 8, 4, 4, 7, 3, 8, 4, 1, 5, 5, 6, 4, 11, 11, 8, 7, 18, 4
+'846-TELEFONICA GUATEMALA', '869-TELEFONICA GUATEMALA'     :     0, 3, 1, 0, 0, 0, 1, 7, 8, 6, 3, 3, 6, 3, 2, 3, 5, 3, 3, 6, 1, 2, 2, 2
+'869-TELEFONICA GUATEMALA', '946-COMCEL'     :     0, 1, 0, 0, 0, 1, 2, 5, 2, 3, 4, 2, 7, 5, 1, 10, 10, 8, 7, 7, 6, 2, 5, 3
+'841-TELEFONICA GUATEMALA', '869-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 1, 0, 0, 1, 2, 0, 0, 0
+'846-TELEFONICA GUATEMALA', '941-COMCEL'     :     1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 4, 2, 1, 1, 0, 0, 0, 0
+'841-TELEFONICA GUATEMALA', '946-COMCEL'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 2, 0, 0, 1, 2, 1, 2, 0, 2, 0, 0, 0
+'869-TELEFONICA GUATEMALA', '841-TELEFONICA GUATEMALA'     :     1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 2, 0, 0, 0, 0, 1, 0, 0, 1, 0, 1, 0
+'841-TELEFONICA GUATEMALA', '1146-SERCOM PCS DIGITAL'     :     0, 0, 0, 0, 0, 0, 0, 0, 2, 5, 0, 5, 0, 0, 3, 3, 1, 3, 0, 1, 3, 0, 0, 0
+'869-TELEFONICA GUATEMALA', '869-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 1, 0, 6, 4, 3, 9, 4, 3, 2, 5, 5, 3, 6, 3, 2, 7, 3, 7, 4
+'869-TELEFONICA GUATEMALA', '1141-SERCOM PCS DIGITAL'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 19, 0, 0, 0, 1, 0, 0
+'841-TELEFONICA GUATEMALA', '941-COMCEL'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0
+'841-TELEFONICA GUATEMALA', '846-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 1, 0, 0, 0
+'846-TELEFONICA GUATEMALA', '855-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0
+'841-TELEFONICA GUATEMALA', '841-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 2, 3, 2, 1, 1, 2, 1, 3, 0, 0, 1
+'846-TELEFONICA GUATEMALA', '1141-SERCOM PCS DIGITAL'     :     1, 1, 0, 0, 0, 0, 0, 0, 3, 1, 3, 1, 0, 1, 3, 2, 2, 1, 0, 1, 0, 1, 0, 0
+'846-TELEFONICA GUATEMALA', '841-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0
+'869-TELEFONICA GUATEMALA', '941-COMCEL'     :     0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 2, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+'846-TELEFONICA GUATEMALA', '99999-OPERADORA NO DEFINIDA'     :     0, 0, 0, 0, 0, 0, 0, 2, 1, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 1, 0
+'870-TELEFONICA GUATEMALA', '1146-SERCOM PCS DIGITAL'     :     0, 0, 0, 0, 0, 0, 0, 1, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+'846-TELEFONICA GUATEMALA', '870-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0
+'869-TELEFONICA GUATEMALA', '855-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+'869-TELEFONICA GUATEMALA', '543-TELGUA S.A.'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+'849-TELEFONICA GUATEMALA', '946-COMCEL'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+'869-TELEFONICA GUATEMALA', '870-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+'841-TELEFONICA GUATEMALA', '1141-SERCOM PCS DIGITAL'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+
+dglmms150114
+'Totalmms', '20150114'     :     14, 2, 1, 2, 3, 11, 32, 44, 70, 94, 78, 72, 78, 94, 88, 71, 101, 75, 90, 74, 113, 108, 84, 42
+'869-TELEFONICA GUATEMALA', '99999-OPERADORA NO DEFINIDA'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+'846-TELEFONICA GUATEMALA', '99999-OPERADORA NO DEFINIDA'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0
+'846-TELEFONICA GUATEMALA', '841-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1
+'841-TELEFONICA GUATEMALA', '841-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 1, 0, 0, 0, 6, 2, 2, 4, 0, 0, 3, 1, 3, 1, 0, 0, 0, 0, 0
+'869-TELEFONICA GUATEMALA', '841-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 1, 0, 0, 0, 0, 0
+'846-TELEFONICA GUATEMALA', '846-TELEFONICA GUATEMALA'     :     6, 0, 0, 1, 3, 3, 8, 15, 17, 25, 20, 18, 24, 28, 26, 16, 38, 24, 31, 26, 37, 34, 25, 11
+'870-TELEFONICA GUATEMALA', '846-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 1, 0, 0, 0
+'869-TELEFONICA GUATEMALA', '846-TELEFONICA GUATEMALA'     :     2, 0, 1, 0, 0, 0, 2, 4, 9, 5, 4, 1, 3, 5, 6, 6, 6, 3, 1, 2, 11, 9, 9, 6
+'841-TELEFONICA GUATEMALA', '846-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 2, 0, 2, 3, 2, 1, 0, 0, 0, 1
+'849-TELEFONICA GUATEMALA', '846-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 2, 0, 2, 0
+'841-TELEFONICA GUATEMALA', '849-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+'846-TELEFONICA GUATEMALA', '849-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+'846-TELEFONICA GUATEMALA', '869-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 1, 0, 1, 4, 2, 7, 5, 4, 1, 2, 7, 3, 0, 3, 1, 5, 7, 3, 2
+'869-TELEFONICA GUATEMALA', '869-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 1, 2, 1, 3, 3, 1, 12, 6, 3, 5, 1, 2, 3, 5, 8, 8, 5, 5, 3
+'841-TELEFONICA GUATEMALA', '869-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 1, 1, 1, 1, 1, 0, 1, 0, 2, 1, 0, 0, 0, 0
+'846-TELEFONICA GUATEMALA', '870-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0
+'869-TELEFONICA GUATEMALA', '1141-SERCOM PCS DIGITAL'     :     0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 2, 0, 0, 2, 0, 0, 0, 0, 4, 1, 1, 0, 1, 0
+'841-TELEFONICA GUATEMALA', '1141-SERCOM PCS DIGITAL'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 1, 0, 1, 0, 0, 0, 0, 0, 0
+'846-TELEFONICA GUATEMALA', '1141-SERCOM PCS DIGITAL'     :     0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 4, 0, 1, 2, 0, 0, 1, 0, 3, 1, 2, 3, 1, 1
+'846-TELEFONICA GUATEMALA', '1146-SERCOM PCS DIGITAL'     :     3, 1, 0, 0, 0, 1, 3, 5, 6, 11, 10, 7, 3, 15, 13, 9, 12, 5, 10, 13, 9, 17, 11, 5
+'869-TELEFONICA GUATEMALA', '1146-SERCOM PCS DIGITAL'     :     1, 0, 0, 0, 0, 2, 1, 1, 2, 4, 3, 9, 7, 2, 1, 6, 8, 7, 3, 2, 1, 5, 5, 3
+'841-TELEFONICA GUATEMALA', '1146-SERCOM PCS DIGITAL'     :     0, 0, 0, 0, 0, 0, 2, 1, 3, 3, 2, 1, 0, 1, 2, 1, 3, 6, 5, 6, 1, 0, 0, 0
+'855-TELEFONICA GUATEMALA', '1146-SERCOM PCS DIGITAL'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+'870-TELEFONICA GUATEMALA', '1146-SERCOM PCS DIGITAL'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0
+'846-TELEFONICA GUATEMALA', '941-COMCEL'     :     0, 0, 0, 0, 0, 1, 2, 0, 1, 2, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0
+'841-TELEFONICA GUATEMALA', '941-COMCEL'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 2, 0, 0, 0, 0, 2, 0, 0, 1, 0, 0, 1, 0
+'869-TELEFONICA GUATEMALA', '941-COMCEL'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0
+'846-TELEFONICA GUATEMALA', '946-COMCEL'     :     1, 1, 0, 1, 0, 1, 7, 10, 11, 9, 10, 8, 13, 15, 14, 14, 17, 16, 17, 5, 25, 16, 14, 8
+'869-TELEFONICA GUATEMALA', '946-COMCEL'     :     1, 0, 0, 0, 0, 0, 3, 3, 4, 9, 4, 1, 6, 10, 8, 1, 1, 2, 2, 4, 5, 5, 4, 0
+'841-TELEFONICA GUATEMALA', '946-COMCEL'     :     0, 0, 0, 0, 0, 0, 2, 3, 2, 2, 3, 2, 2, 5, 4, 1, 1, 1, 0, 2, 2, 3, 1, 0
+'849-TELEFONICA GUATEMALA', '946-COMCEL'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 2, 0, 2, 1
+
+dglmmsMieMed
+'Totalmms', 'med'     :     16, 6, 2, 2, 8, 12, 31, 55, 66, 86, 85, 79, 84, 82, 88, 79, 85, 94, 88, 93, 119, 103, 84, 49
+'846-TELEFONICA GUATEMALA', '846-TELEFONICA GUATEMALA'     :     6, 2, 0, 1, 2, 5, 11, 14, 22, 29, 22, 21, 25, 23, 24, 20, 28, 26, 29, 37, 37, 34, 32, 16
+'846-TELEFONICA GUATEMALA', '1146-SERCOM PCS DIGITAL'     :     4, 1, 0, 0, 2, 0, 2, 6, 6, 9, 11, 9, 6, 10, 13, 10, 9, 12, 11, 12, 17, 16, 8, 8
+'869-TELEFONICA GUATEMALA', '1146-SERCOM PCS DIGITAL'     :     0, 0, 0, 0, 0, 1, 1, 2, 2, 5, 5, 5, 4, 4, 4, 4, 6, 6, 3, 3, 6, 5, 3, 3
+'846-TELEFONICA GUATEMALA', '869-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 1, 0, 1, 3, 4, 2, 4, 3, 5, 2, 1, 3, 3, 1, 3, 4, 1, 3, 3, 1
+'846-TELEFONICA GUATEMALA', '946-COMCEL'     :     1, 0, 0, 0, 0, 2, 5, 13, 9, 12, 15, 13, 13, 16, 18, 15, 15, 17, 16, 16, 26, 19, 13, 6
+'869-TELEFONICA GUATEMALA', '946-COMCEL'     :     0, 0, 0, 0, 0, 0, 2, 3, 2, 4, 4, 3, 6, 4, 3, 7, 3, 3, 3, 3, 4, 4, 5, 1
+'841-TELEFONICA GUATEMALA', '841-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 2, 1, 1, 1, 1, 1, 1, 1, 0, 2, 0, 0, 0
+'869-TELEFONICA GUATEMALA', '846-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 3, 4, 5, 4, 3, 3, 5, 2, 6, 4, 6, 4, 5, 4, 7, 6, 10, 3
+'869-TELEFONICA GUATEMALA', '841-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0
+'841-TELEFONICA GUATEMALA', '1146-SERCOM PCS DIGITAL'     :     0, 0, 0, 0, 0, 0, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 3, 2, 2, 1, 0, 0, 1
+'841-TELEFONICA GUATEMALA', '946-COMCEL'     :     0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 2, 1, 3, 1, 1, 0, 0, 2, 1, 1, 1, 2, 0, 0
+'841-TELEFONICA GUATEMALA', '941-COMCEL'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0
+'869-TELEFONICA GUATEMALA', '869-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 1, 1, 3, 2, 5, 7, 3, 3, 3, 4, 2, 4, 3, 3, 4, 4, 3, 3
+'841-TELEFONICA GUATEMALA', '1141-SERCOM PCS DIGITAL'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0
+'846-TELEFONICA GUATEMALA', '1141-SERCOM PCS DIGITAL'     :     0, 0, 0, 0, 1, 0, 0, 0, 2, 0, 3, 0, 0, 1, 1, 1, 1, 0, 1, 0, 1, 1, 0, 0
+'846-TELEFONICA GUATEMALA', '841-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
+'846-TELEFONICA GUATEMALA', '870-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+'846-TELEFONICA GUATEMALA', '941-COMCEL'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 2, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0
+'869-TELEFONICA GUATEMALA', '1141-SERCOM PCS DIGITAL'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 5, 1, 0, 0, 0, 0, 0
+'841-TELEFONICA GUATEMALA', '869-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0
+'841-TELEFONICA GUATEMALA', '846-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 2, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0
+'869-TELEFONICA GUATEMALA', '941-COMCEL'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+'870-TELEFONICA GUATEMALA', '946-COMCEL'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+'846-TELEFONICA GUATEMALA', '99999-OPERADORA NO DEFINIDA'     :     0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0
+'870-TELEFONICA GUATEMALA', '846-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+'869-TELEFONICA GUATEMALA', '99999-OPERADORA NO DEFINIDA'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+'849-TELEFONICA GUATEMALA', '946-COMCEL'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+'869-TELEFONICA GUATEMALA', '855-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+'846-TELEFONICA GUATEMALA', '850-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+'855-TELEFONICA GUATEMALA', '846-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+'849-TELEFONICA GUATEMALA', '846-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+'846-TELEFONICA GUATEMALA', '849-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+'841-TELEFONICA GUATEMALA', '849-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+'855-TELEFONICA GUATEMALA', '1146-SERCOM PCS DIGITAL'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+'846-TELEFONICA GUATEMALA', '855-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+'870-TELEFONICA GUATEMALA', '1146-SERCOM PCS DIGITAL'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+'869-TELEFONICA GUATEMALA', '543-TELGUA S.A.'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+'869-TELEFONICA GUATEMALA', '870-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
