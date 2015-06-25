@@ -1,4 +1,5 @@
 dglmms141231
+
 'Totalmms', '20141231'     :     25, 10, 2, 1, 5, 7, 25, 53, 55, 65, 99, 87, 100, 121, 84, 95, 71, 101, 143, 172, 163, 201, 228, 255
 '841-TELEFONICA GUATEMALA', '946-COMCEL'     :     0, 0, 0, 0, 0, 1, 2, 1, 0, 0, 1, 2, 2, 2, 2, 3, 3, 1, 1, 5, 3, 4, 7, 3
 '846-TELEFONICA GUATEMALA', '846-TELEFONICA GUATEMALA'     :     7, 5, 0, 1, 3, 0, 8, 10, 15, 22, 27, 23, 22, 25, 20, 38, 25, 31, 39, 51, 36, 49, 63, 64
@@ -27,7 +28,6 @@ dglmms141231
 '846-TELEFONICA GUATEMALA', '941-COMCEL'     :     0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 1
 '870-TELEFONICA GUATEMALA', '946-COMCEL'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0
 '846-TELEFONICA GUATEMALA', '841-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 2
-'855-TELEFONICA GUATEMALA', '1141-SERCOM PCS DIGITAL'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
 '870-TELEFONICA GUATEMALA', '846-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0
 '870-TELEFONICA GUATEMALA', '1146-SERCOM PCS DIGITAL'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0
 '841-TELEFONICA GUATEMALA', '849-TELEFONICA GUATEMALA'     :     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
